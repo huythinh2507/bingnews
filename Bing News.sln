@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bing News", "Bing News\Bing News.csproj", "{87D04EDB-A335-4AEA-9EB2-EFB8B2C3E1F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mapping", "Mapping\Mapping.csproj", "{D8786BFF-76A8-4D3C-9B77-90A8A49A24CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87D04EDB-A335-4AEA-9EB2-EFB8B2C3E1F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87D04EDB-A335-4AEA-9EB2-EFB8B2C3E1F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87D04EDB-A335-4AEA-9EB2-EFB8B2C3E1F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87D04EDB-A335-4AEA-9EB2-EFB8B2C3E1F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8786BFF-76A8-4D3C-9B77-90A8A49A24CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8786BFF-76A8-4D3C-9B77-90A8A49A24CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8786BFF-76A8-4D3C-9B77-90A8A49A24CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8786BFF-76A8-4D3C-9B77-90A8A49A24CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5F87EBF-E5E9-413E-AA6D-CC8D2C059738}
+	EndGlobalSection
+EndGlobal

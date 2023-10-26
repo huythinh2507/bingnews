@@ -1,0 +1,21 @@
+{
+  "API1": {
+    "Temperature": "temp",
+    "MaxTemperature": "tempmax",
+    "MinTemperature": "tempmin",
+    "WeatherCondition": "conditions",
+    "Description": "description",
+    "Icon": "icon",
+    "Humidity": "humidity",
+    "Date": "datetime",
+    "URL": ""
+  },
+  "API2": {
+    "Temperature": "list[i].main.temp",
+    "MaxTemperature": "list[i].main.temp_max",
+    "MinTemperature": "list[i].main.temp_min",
+    "Description": "list[i].weather[0].description",
+    "Icon": "list[i].weather[0].icon",
+    "Humidity": "list[i].main.humidity"
+  }
+}

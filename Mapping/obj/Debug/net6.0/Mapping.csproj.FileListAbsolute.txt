@@ -1,0 +1,11 @@
+C:\Users\thinh\source\repos\Bing News\Mapping\bin\Debug\net6.0\Mapping.deps.json
+C:\Users\thinh\source\repos\Bing News\Mapping\bin\Debug\net6.0\Mapping.dll
+C:\Users\thinh\source\repos\Bing News\Mapping\bin\Debug\net6.0\Mapping.pdb
+C:\Users\thinh\source\repos\Bing News\Mapping\obj\Debug\net6.0\Mapping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thinh\source\repos\Bing News\Mapping\obj\Debug\net6.0\Mapping.AssemblyInfoInputs.cache
+C:\Users\thinh\source\repos\Bing News\Mapping\obj\Debug\net6.0\Mapping.AssemblyInfo.cs
+C:\Users\thinh\source\repos\Bing News\Mapping\obj\Debug\net6.0\Mapping.csproj.CoreCompileInputs.cache
+C:\Users\thinh\source\repos\Bing News\Mapping\obj\Debug\net6.0\Mapping.dll
+C:\Users\thinh\source\repos\Bing News\Mapping\obj\Debug\net6.0\refint\Mapping.dll
+C:\Users\thinh\source\repos\Bing News\Mapping\obj\Debug\net6.0\Mapping.pdb
+C:\Users\thinh\source\repos\Bing News\Mapping\obj\Debug\net6.0\ref\Mapping.dll
