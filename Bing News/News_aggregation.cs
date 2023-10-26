@@ -18,10 +18,10 @@ namespace Bing_News
         public string PostingTime { get; set; }
         public string ImageUrl { get; set; }
         public string Sourcesimg { get; set; }
-        public object Likes { get; private set; } = 0;
-        public object Dislikes { get; private set; } = 0;
+        public int Likes { get; private set; } = 0;
+        public int Dislikes { get; private set; } = 0;
 
-     
+
         public List<News_Aggregation> GetNewsSource()
         {           
             var PostSource = new List<News_Aggregation>();
