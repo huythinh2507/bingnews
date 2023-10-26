@@ -1,2 +1,0 @@
-﻿INSERT INTO [Table] (Location, CurrentTemperature, MaxTemperature, MinTemperature, WeatherCondition, Description, Icon, Humidity, Date)
- VALUES (@Location, @CurrentTemperature, @MaxTemperature, @MinTemperature, @WeatherCondition, @Description, @Icon, @Humidity, @Date);
