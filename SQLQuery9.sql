@@ -1,1 +1,0 @@
-﻿SELECT * FROM [dbo].[Weather] WHERE Location = 'Ho Chi'
